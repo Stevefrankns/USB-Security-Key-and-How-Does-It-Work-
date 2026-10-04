@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/USB-Security-Key-and-How-Does-It-Work-/sitemap.xml
